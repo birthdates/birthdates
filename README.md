@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 
 
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I’m currently working in **Full-Stack Development**
@@ -33,11 +31,14 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-plain-wordmark.svg" alt="kotlin" width="40" height="40" />
+  </a>
   <a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer">
-    <img src="https://clarkes.team/wp-content/uploads/2023/07/Redis.png" alt="spigotmc" width="40" height="40" />
+    <img src="https://avatars.githubusercontent.com/u/4350249?s=280&v=4" alt="redis" width="50" height="40" />
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/4350249?s=280&v=4" alt="redis" width="50" height="40" />
+    <img src="https://i.imgur.com/tvbXBXO.png" alt="redis" width="50" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -56,6 +57,9 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" id="next">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-line-wordmark.svg" alt="nextjs" width="40" height="40" style="fill: white;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
