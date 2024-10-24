@@ -94,4 +94,3 @@
 <a href="https://discord.com/users/684167272922742804" target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="birthdates-discord" height="40" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birthdates&label=Profile%20views&color=0e75b6&style=flat" alt="birthdates" /> </p>
